@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=csv
+comment0.target=MazeGenerator(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MazeGenerator\r\n\ \r\n\ @param\ csv\ \ \ a\ csv\ file\ used\ to\ generate\ rooms\r\n
+comment1.params=
+comment1.target=Room\ pickStartPoint()
+comment1.text=\r\n\ Pick\ a\ random\ room\ for\ the\ player\ to\ start\ in.\r\n\ \r\n\ @return\ \ a\ random\ room\ in\ the\ maze\r\n
+comment2.params=
+comment2.target=void\ addRoomsToGrid()
+comment2.text=\r\n\ Add\ all\ rooms\ from\ the\ file\ to\ the\ grid.\r\n
+comment3.params=
+comment3.target=void\ getFromFile()
+comment3.text=\r\n\ Construct\ an\ ArrayList\ of\ rooms\ from\ a\ list\ in\ a\ csv\ file,\ terminating\ with\ "X"\r\n
+comment4.params=
+comment4.target=void\ generateMaze()
+comment4.text=\r\n\ Generate\ a\ maze\ by\ adding\ all\ rooms\ to\ the\ grid,\ setting\ exits\ on\ all\ rooms,\ and\r\n\ creating\ rooms\ HashMap.\r\n
+numComments=5

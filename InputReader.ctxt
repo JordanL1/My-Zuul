@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fname
+comment0.target=InputReader(java.lang.String)
+comment0.text=\r\n\ Create\ a\ new\ InputReader\ that\ reads\ text\ from\ the\ file\ with\ the\ given\ name.\r\n
+comment1.params=
+comment1.target=java.lang.String[]\ getInput()
+comment1.text=\r\n\ Read\ a\ line\ of\ text\ from\ the\ input\ (a\ CSV\ file),\r\n\ and\ return\ it\ as\ an\ array\ of\ String\ data\ values.\r\n\r\n\ @return\ \ An\ array\ of\ Strings,\ where\ each\ String\ is\ one\ of\ the\ \r\n\ \ \ \ \ \ \ \ \ \ fields\ in\ the\ input.\r\n
+numComments=2
