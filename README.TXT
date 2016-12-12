@@ -29,4 +29,5 @@ Read chapter 7 of the book to get a detailed description of the project.
 ---
 
 Additions
-The added classes 'MazeGenerator' and 'Grid' are used to generate a maze of rooms from a given .csv file, which must contain a list of room descriptions and end with "X".
+The added classes 'MazeGenerator' and 'Grid' are used to generate a maze of rooms from a given .csv file, 
+which must contain a list of room descriptions and end with "X".
